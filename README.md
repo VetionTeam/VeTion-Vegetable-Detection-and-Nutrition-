@@ -1,1 +1,2 @@
 # Mobile Development
+### We will develop modern and visually appealing apps using Kotlin programming and integrating the Jetpack Compose, Room, Retrofit2, CameraX, Material Design, and Vico libraries. We implement a clean code architecture, connect applications to the API, and apply third-party services. Our application design follows the features designed based on existing problems and user needs using Figma.\
